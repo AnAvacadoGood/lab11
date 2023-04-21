@@ -210,3 +210,38 @@ public class FamilyTree
 		}
 	}
 }
+
+//1:On branch master
+//No commits yet
+//Untracked files:
+  //(use "git add <file>..." to include in what will be committed)
+        //.classpath
+        //.gitignore
+        //.project
+      //  .settings/
+    //    bin/
+  //      src/
+//nothing added to commit but untracked files present (use "git add" to track)
+
+//2: Changes to be committed:
+//(use "git rm --cached <file>..." to unstage)
+//new file:   .gitignore
+//new file:   src/trees/BagginsFamilyTree.txt
+//new file:   src/trees/FamilyTree.java
+//new file:   src/trees/TreeException.java
+
+//3: [master (root-commit) f190bd3] initial checkin
+//4 files changed, 236 insertions(+)
+//create mode 100644 .gitignore
+//create mode 100644 src/trees/BagginsFamilyTree.txt
+//create mode 100644 src/trees/FamilyTree.java
+//create mode 100644 src/trees/TreeException.java
+
+//4: On branch master
+//Untracked files:
+	//  (use "git add <file>..." to include in what will be committed)
+	  //      .classpath
+	    //    .project
+	      //  .settings/
+	        //bin/
+
